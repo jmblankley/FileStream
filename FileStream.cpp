@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
 
     string fname;
-    cout << "What is the name of your input file? ";
+    cout << "What is the name of your input file? aaa";
     cin >> fname;
 
     ifstream reader(fname);
